@@ -18,4 +18,6 @@ export * from './components/AbBotao'
 export * from './components/AbGrupoOpcoes'
 export * from './components/Card'
 export * from './components/AbTag'
+export * from './components/AbCampoTexto'
+
 
